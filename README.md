@@ -1,4 +1,4 @@
-# frtizing
+# fritzing
 Fritzing components
 
 Fritzing components created for projects I used and freely available to all:
