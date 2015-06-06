@@ -9,3 +9,5 @@ Fritzing components created for projects I used and freely available to all:
 * L298
 * GY-271
 * ESP8266-12
+* YL-105
+* WTV020SD
