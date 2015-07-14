@@ -36,7 +36,7 @@
      id="namedview11833"
      showgrid="true"
      inkscape:zoom="9.292509"
-     inkscape:cx="8.7143497"
+     inkscape:cx="-12.431715"
      inkscape:cy="48.443165"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -230,7 +230,7 @@
        x="34.304802"
        style="font-size:4.5px;font-family:DroidSans;fill:#555555"
        id="text4255"
-       font-size="4.5">GPIO1</text>
+       font-size="4.5">GPIO2</text>
 <text
        font-size="4.5"
        id="text4257"
@@ -242,13 +242,13 @@
        x="33.63903"
        style="font-size:4.5px;font-family:DroidSans;fill:#555555"
        id="text4259"
-       font-size="4.5">GPIO5</text>
+       font-size="4.5">GPIO4</text>
 <text
        font-size="4.5"
        id="text4261"
        style="font-size:4.5px;font-family:DroidSans;fill:#555555"
        x="33.47863"
-       y="10.536288">GPIO4</text>
+       y="10.536288">GPIO5</text>
 <text
        y="1.4160379"
        x="38.46862"

@@ -72,10 +72,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.9224218"
-     inkscape:cx="-40.816086"
+     inkscape:cx="-90.912687"
      inkscape:cy="1.0529695"
      inkscape:document-units="in"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="in"
      showguides="false"
@@ -127,8 +127,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-8.5328746,-304.35642)"
-     sodipodi:insensitive="true">
+     transform="translate(-8.5328746,-304.35642)">
     <g
        id="g4280"
        transform="translate(-35.968081,36.024722)">
@@ -1203,7 +1202,7 @@
          y="379.07639"
          x="60.485634"
          id="tspan4560"
-         sodipodi:role="line">GPIO1</tspan></text>
+         sodipodi:role="line">GPIO2</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.38405895px;line-height:125%;font-family:OCRA;-inkscape-font-specification:OCRA;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1225,7 +1224,7 @@
          y="361.09457"
          x="60.485634"
          id="tspan4568"
-         sodipodi:role="line">GPIO5</tspan><tspan
+         sodipodi:role="line">GPIO4</tspan><tspan
          y="366.57465"
          x="60.485634"
          sodipodi:role="line"
@@ -1240,7 +1239,7 @@
          sodipodi:role="line"
          id="tspan4572"
          x="60.595234"
-         y="352.05783">GPIO4</tspan></text>
+         y="352.05783">GPIO5</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4574"
